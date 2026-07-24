@@ -1,4 +1,4 @@
-# 📚 UnityMbed: N32G031 Libraries
+# UnityMbed: N32G031 Libraries
 
 [English](#english) | [ภาษาไทย](#ภาษาไทย)
 
